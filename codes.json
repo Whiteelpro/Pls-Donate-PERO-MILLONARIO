@@ -1,0 +1,21 @@
+{
+
+"haz3mn": {
+    "Active": true,
+    "RewardType": "Robux",
+    "RewardValue": 69420
+},
+
+"SOAPY50K": {
+    "Active": true,
+    "RewardType": "Robux",
+    "RewardValue": 50000
+},
+
+"dontredeem": {
+    "Active": true,
+    "RewardType": "Robux",
+    "RewardValue": 0
+}
+
+}
